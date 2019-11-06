@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\xxtum\OneDrive\Desktop\Nháp\Rust Jeff\rust_jeff\vector.hpp(185,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\xxtum\OneDrive\Desktop\Nháp\Rust Jeff\rust_jeff\vector.hpp(186,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+  rust_jeff.vcxproj -> C:\Users\xxtum\OneDrive\Desktop\Nháp\Rust Jeff\x64\Debug\rust_jeff.dll
